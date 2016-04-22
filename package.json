@@ -1,0 +1,31 @@
+{
+  "name": "googleapis_nodejs",
+  "version": "1.0.0",
+  "description": "Google APIs with NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omarcoteixeira/googleapis_nodejs.git"
+  },
+  "keywords": [
+    "google",
+    "google",
+    "apis",
+    "nodejs",
+    "node"
+  ],
+  "author": "omarcoteixeira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omarcoteixeira/googleapis_nodejs/issues"
+  },
+  "homepage": "https://github.com/omarcoteixeira/googleapis_nodejs#readme",
+  "dependencies": {
+    "googleapis": "^5.2.0",
+    "js-beautify": "^1.6.2",
+    "swig": "^1.4.2"
+  }
+}
